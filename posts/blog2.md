@@ -23,7 +23,8 @@ However, existing platforms such as Reddit or Facebook groups tend to support un
 ### Feature Ideation
 To respond to these needs, my group explored broader system structures for our community map. This included multiple interconnected sections such as events, forums, member profiles and a courts map.
 
-![Badminton Community System](assets/images/sitemap.png)
+
+<img src="assets/images/sitemap.png" alt="Badminton Community System" width="50%>
 **Figure 1. Overall system structure of the badminton community hub**
 
 
