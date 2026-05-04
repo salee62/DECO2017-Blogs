@@ -23,7 +23,7 @@ However, existing platforms such as Reddit or Facebook groups tend to support un
 ### Feature Ideation
 To respond to these needs, my group explored broader system structures for our community map. This included multiple interconnected sections such as events, forums, member profiles and a courts map.
 
-![Badminton Community System](images/sitemap.png)
+![Badminton Community System](posts/images/sitemap.png)
 **Figure 1. Overall system structure of the badminton community hub**
 
 Based on this, we decided to focus on the **events sytem** as a standout feature as it directly supports the primary goal of badminton players which is being able to participate in games and improving their experiences. However, instead of listing a standard event listing system, the design introduces a **skill based event matching approach**.
