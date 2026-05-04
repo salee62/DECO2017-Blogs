@@ -25,6 +25,7 @@ To respond to these needs, my group explored broader system structures for our c
 
 
 <img src="assets/images/sitemap.png" alt="Badminton Community System" width="50%">
+
 **Figure 1. Overall system structure of the badminton community hub**
 
 
