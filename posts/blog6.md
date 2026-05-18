@@ -1,5 +1,5 @@
 ---
-title: Evaluating and Revisiting Design Decisions
+title: Final Evaluation and Revisiting Design Decisions
 date: 2026-05-18
 author: Winnie Eap
 summary: This post reflects on the final platform direction and discusses future improvements and testing considerations.
