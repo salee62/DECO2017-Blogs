@@ -42,7 +42,7 @@ These findings align with my expectations for the project. Testing focused parti
 
 Think Aloud testing with five participants suggested that event discovery was one of the strongest aspects of the platform. All participants successfully located the Events page and were able to identify suitable sessions without assistance. Four participants specifically mentioned the usefulness of the skill-level filtering system, suggesting that it reduced the effort required to browse large numbers of events. Event cards provided users with key information such as skill level, location and participation details without requiring unnecessary navigation. This reduced the number of interactions required to evaluate potential sessions and helped users make decisions more efficiently.  As shown in Figure 4, all participants were able to complete the event discovery task successfully, while four participants specifically commented on the usefulness of the filtering system when narrowing down suitable sessions.
 
-<img src="assets/images/event-card.png" alt="Event Card" width="90%">
+<img src="assets/images/event-card.png" alt="Event Card" width="50%">
 
 **Figure 5. Event Card**
 
