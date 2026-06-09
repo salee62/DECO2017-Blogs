@@ -1,5 +1,12 @@
 ---
 title: DECO2017 Reflection
+date: 2026-06-09
+author: Winnie Eap
+summary: Assignment Reflection
+tags:
+  - reflection
+  - usability
+  - evaluation
 ---
 ## Introduction
 Looking back on the project, one of the most significant design decisions involved determining which feature should become the platform's primary interaction. While the project was always intended to include a distinctive feature that differentiated it from existing community platforms, early concepts explored several possibilities including forums, court discovery, profiles, and events. Through design iteration, development, and evaluation, the event system became the strongest opportunity to support the needs of badminton players. As a result, the platform evolved towards an event-centred experience with supporting features designed to complement participation rather than compete with it.
